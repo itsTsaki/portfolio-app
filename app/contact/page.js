@@ -13,7 +13,7 @@ export default function Contact() {
 
       <form
         className="w-full max-w-2xl bg-white dark:bg-gray-800 p-8 rounded-2xl shadow-md border border-gray-200 dark:border-gray-700 space-y-6"
-        action="https://formsubmit.co/itspranav.pk@gmail.com"
+        action="https://formsubmit.co/pranavpk7210@gmail.com"
         method="POST"
       >
         <div>
