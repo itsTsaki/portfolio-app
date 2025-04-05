@@ -20,7 +20,8 @@ export default function Home() {
                   View Projects
                 </Link>
                 <Link
-                  href="/"
+                  href="/resume.pdf"
+                  target="_blank"
                   className="px-6 py-2 rounded-full bg-gray-700 text-white hover:bg-gray-500 transition font-bold"
                 >
                   My Resume
