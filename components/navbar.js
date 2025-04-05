@@ -15,7 +15,7 @@ export default function Navbar() {
   const pathname = usePathname();
 
   return (
-    <nav className="w-full flex justify-center sm:mt-6">
+    <nav className="w-full flex justify-center sm:mt-6 sticky top-3">
       <div className="bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm px-6 py-2 rounded-full shadow-md border border-gray-200 dark:border-gray-700 flex sm:gap-4 items-center">
         {links.map(({ href, label }) => (
           <Link
