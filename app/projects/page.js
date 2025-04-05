@@ -29,7 +29,7 @@ export default function Projects() {
           My Projects
         </h1>
         <p className="text-lg text-gray-600 dark:text-gray-300">
-          A collection of things I've built – some just for fun, others for real-world use.
+          A collection of things I&#39;ve built – some just for fun, others for real-world use.
         </p>
       </section>
 
